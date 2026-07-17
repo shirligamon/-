@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <title>מילה</title>
+  <style>
+    body { display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0; font-family: Arial, sans-serif; font-size: 60px; }
+  </style>
+</head>
+<body>
+  היעד
+</body>
+</html>
